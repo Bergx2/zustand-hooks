@@ -1,4 +1,4 @@
-# eslint-config-bs-react
+# eslint-config-zustand-hooks
 
 Set of eslint rules for react
 
