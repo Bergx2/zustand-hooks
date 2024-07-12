@@ -1,0 +1,15 @@
+{
+  "name": "no-destructure-zustand-hook",
+  "version": "1.0.0",
+  "description": "Set of eslint rules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bergx2/zustand-hooks.git"
+  },
+  "author": "Daria Matviienko <daria.matviienko@bergx2.de>",
+  "license": "ISC"
+}
