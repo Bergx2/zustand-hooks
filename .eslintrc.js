@@ -1,7 +1,7 @@
 module.exports = {
-  extends: ["eslint-config-zustand-hooks"],
+  extends: [],
   plugins: ["zustand-hooks"],
   rules: {
-    'no-destructure-zustand-hook': require('./rules/no-destructure-zustand-hooks')
+    'zustand-hooks/no-destructure-zustand-hook': 'error' 
   },
 };

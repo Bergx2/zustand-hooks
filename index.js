@@ -1,3 +1,5 @@
-const eslintrc = require('./.eslintrc.js');
-
-module.exports = eslintrc;
+module.exports = {
+  rules: {
+    'no-destructure-zustand-hook': require('../rules/no-destructure-zustand-hooks')
+  },
+};
